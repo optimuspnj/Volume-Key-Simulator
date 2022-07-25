@@ -4,7 +4,9 @@ import android.media.AudioManager
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.service.quicksettings.TileService
+import android.text.method.LinkMovementMethod
 import android.widget.Button
+import android.widget.TextView
 import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
@@ -24,6 +26,9 @@ class MainActivity : AppCompatActivity() {
         downBtn.setOnClickListener {
             audioManager.adjustVolume(AudioManager.ADJUST_LOWER, AudioManager.FLAG_SHOW_UI)
         }
+
+        val gitLink: TextView = findViewById(R.id.textView_link)
+        gitLink.autoLinkMask
     }
 }
 
