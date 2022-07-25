@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Volume Key Simulator</string>
+    <string name="volume_up">Volume UP</string>
+    <string name="volume_down">Volume DOWN</string>
+    <string name="this_app_simulates_volume_button_activity_by_adding_a_tile_to_quick_settings_on_notification_drawer">This app simulates Volume Button activity by adding a tile to Quick Settings on Notification Drawer.</string>
+    <string name="open_notification_drawer_and_go_to_edit_mode_you_will_find_volume_tile_at_the_bottom_part_add_it_to_quick_tiles">Open Notification Drawer and go to Edit Mode. You will find Volume tile at the bottom part. Add it to Quick Tiles.</string>
+    <string name="whenever_you_need_to_adjust_device_volume_pull_down_the_notification_drawer_and_tap_on_volume_tile_it_will_display_the_volume_panel">Whenever you need to adjust device volume, pull down the Notification Drawer and tap on Volume tile. It will display the Volume Panel.</string>
+    <string name="below_buttons_are_only_for_testing_when_you_tap_on_those_buttons_the_volume_panel_should_be_displayed">Below buttons are only for testing. When you tap on those buttons, the Volume Panel should be displayed.</string>
+</resources>
