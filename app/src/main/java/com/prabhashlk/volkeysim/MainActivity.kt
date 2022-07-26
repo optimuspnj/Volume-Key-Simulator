@@ -1,13 +1,11 @@
 package com.prabhashlk.volkeysim
 
 import android.media.AudioManager
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.service.quicksettings.TileService
-import android.text.method.LinkMovementMethod
 import android.widget.Button
 import android.widget.TextView
-import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -32,7 +30,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-class VolSimService: TileService() {
+class VolSimService : TileService() {
 
     override fun onClick() {
         super.onClick()
