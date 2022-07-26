@@ -1,4 +1,4 @@
-#Volume Key Simulator (Android)
+# Volume Key Simulator (Android)
 
 This Android app simulates the volume button activity.
 
@@ -9,6 +9,15 @@ This Android app simulates the volume button activity.
 * NO BACKGROUND ACTIVITY
 * MINIMAL SIZE
 * FREE AND OPEN SOURCE
+
+## Usage
+
+1. Download and install the APK file.
+2. Pull down Notification Drawer.
+3. Go to Edit Mode.
+4. Look for new tile titled as Volume
+5. Add the tile for Quick Tiles.
+6. To simulate the volume button activity, just pull down the Notification Drawer and tap on newly added tile.
 
 ## Download
 
