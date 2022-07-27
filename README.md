@@ -21,4 +21,4 @@ This Android app simulates the volume button activity.
 
 ## Download
 
-Download latest APK file from [releases](https://github.com/optimuspnj/Volume-Key-Simulator/releases "GitHub Releases") page under assets. (OR build your own APK file with Android Studio with latest Gradle build) Please ignore the signature warning while installation. We use our own signature to sign the APK file.
+Download latest APK file from [releases](https://github.com/optimuspnj/Volume-Key-Simulator/releases/latest "GitHub Releases") page under assets. (OR build your own APK file with Android Studio with latest Gradle build) Please ignore the signature warning while installation. We use our own signature to sign the APK file.
