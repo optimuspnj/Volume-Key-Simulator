@@ -14,6 +14,7 @@
         android:theme="@style/Theme.VolumeKeySimulator"
         tools:targetApi="31">
 
+        <!--Service for add Quick Settings Tile-->
         <service
             android:name=".VolSimService"
             android:enabled="true"
